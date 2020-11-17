@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - '8333:8080'
+    container_name: jenkins
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
