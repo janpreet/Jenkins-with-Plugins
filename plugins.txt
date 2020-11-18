@@ -3,6 +3,7 @@ build-name-setter
 build-pipeline-plugin
 build-timeout
 clone-workspace-scm
+configuration-as-code
 dashboard-view
 delivery-pipeline-plugin
 docker-workflow
@@ -10,6 +11,7 @@ email-ext
 git
 job-dsl
 mask-passwords
+matrix-auth
 maven-plugin
 parameterized-trigger
 pipeline-stage-view
