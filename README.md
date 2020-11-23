@@ -18,10 +18,15 @@ docker pull janpreet/jenkins:latest
 - configuration-as-code
 - dashboard-view
 - delivery-pipeline-plugin
+- docker-build-step
+- docker-commons
+- docker-java-api
+- docker-plugin
 - docker-workflow
 - email-ext
 - git
 - job-dsl
+- kubernetes
 - mask-passwords
 - matrix-auth
 - maven-plugin
