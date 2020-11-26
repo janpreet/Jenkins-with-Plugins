@@ -16,6 +16,7 @@ docker pull janpreet/jenkins:latest
 - build-timeout
 - clone-workspace-scm
 - configuration-as-code
+- credentials-binding
 - dashboard-view
 - delivery-pipeline-plugin
 - docker-build-step
