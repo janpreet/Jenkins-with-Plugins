@@ -33,6 +33,7 @@ docker pull janpreet/jenkins:latest
 - maven-plugin
 - parameterized-trigger
 - pipeline-stage-view
+- pipeline-utility-steps
 - publish-over-ssh
 - role-strategy
 - scm-api
