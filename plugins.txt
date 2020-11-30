@@ -1,4 +1,6 @@
 active-directory
+atlassian-bitbucket-server-integration
+bitbucket
 build-name-setter
 build-pipeline-plugin
 build-timeout
@@ -16,6 +18,7 @@ email-ext
 git
 job-dsl
 kubernetes
+ldap
 mask-passwords
 matrix-auth
 maven-plugin

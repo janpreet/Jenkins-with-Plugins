@@ -11,6 +11,8 @@ docker pull janpreet/jenkins:latest
 ## List of Plugins
 
 - active-directory
+- atlassian-bitbucket-server-integration
+- bitbucket
 - build-name-setter
 - build-pipeline-plugin
 - build-timeout
@@ -28,6 +30,7 @@ docker pull janpreet/jenkins:latest
 - git
 - job-dsl
 - kubernetes
+- ldap
 - mask-passwords
 - matrix-auth
 - maven-plugin
