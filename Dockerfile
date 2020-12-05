@@ -1,4 +1,5 @@
 FROM jenkins/jenkins:lts
+LABEL Maintainer="Janpreet Singh"
 
 ENV JENKINS_HOME /var/jenkins_home
 VOLUME /var/jenkins_home
