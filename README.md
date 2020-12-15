@@ -1,4 +1,5 @@
 # Jenkins image with Plugins
+![Docker Pulls](https://img.shields.io/docker/pulls/janpreet/jenkins)
 
 ## Motivation:
 
