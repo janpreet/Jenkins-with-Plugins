@@ -1,5 +1,5 @@
 # Jenkins image with Plugins
-![Docker Pulls](https://img.shields.io/docker/pulls/janpreet/jenkins)
+![Docker Pulls](https://img.shields.io/docker/pulls/janpreet/jenkins)i
 
 ## Motivation:
 
@@ -13,6 +13,7 @@ docker pull janpreet/jenkins:latest
 
 - active-directory
 - atlassian-bitbucket-server-integration
+- cloudbees-bitbucket-branch-source
 - bitbucket
 - build-name-setter
 - build-pipeline-plugin
@@ -41,8 +42,10 @@ docker pull janpreet/jenkins:latest
 - publish-over-ssh
 - role-strategy
 - scm-api
+- ssh
 - ssh-agent
 - ssh-slaves
+- ssh-steps
 - subversion
 - view-job-filters
 - workflow-aggregator
