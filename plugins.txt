@@ -1,5 +1,6 @@
 active-directory
 atlassian-bitbucket-server-integration
+cloudbees-bitbucket-branch-source
 bitbucket
 build-name-setter
 build-pipeline-plugin
@@ -28,8 +29,10 @@ pipeline-utility-steps
 publish-over-ssh
 role-strategy
 scm-api
+ssh
 ssh-agent
 ssh-slaves
+ssh-steps
 subversion
 view-job-filters
 workflow-aggregator
