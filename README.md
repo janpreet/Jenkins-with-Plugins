@@ -1,6 +1,5 @@
 # Jenkins image with Plugins
 ![Docker Pulls](https://img.shields.io/docker/pulls/janpreet/jenkins)
-[![Known Vulnerabilities](https://snyk.io/test/github/janpreet/Jenkins-with-Plugins/badge.svg?targetFile=Dockerfile)](https://snyk.io/test/github/janpreet/Jenkins-with-Plugins?targetFile=Dockerfile)
 
 ## Motivation:
 
@@ -49,6 +48,7 @@ docker pull janpreet/jenkins:latest
 - ssh-slaves
 - issh-steps
 - subversion
+- support-core
 - view-job-filters
 - workflow-aggregator
 - ws-cleanup

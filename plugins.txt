@@ -35,6 +35,7 @@ ssh-agent
 ssh-slaves
 ssh-steps
 subversion
+support-core
 view-job-filters
 workflow-aggregator
 ws-cleanup
