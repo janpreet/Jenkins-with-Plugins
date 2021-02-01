@@ -1,7 +1,8 @@
 active-directory
 atlassian-bitbucket-server-integration
-cloudbees-bitbucket-branch-source
+audit-trail
 bitbucket
+cloudbees-bitbucket-branch-source
 build-name-setter
 build-pipeline-plugin
 build-timeout
