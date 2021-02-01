@@ -1,5 +1,6 @@
 # Jenkins image with Plugins
-![Docker Pulls](https://img.shields.io/docker/pulls/janpreet/jenkins)i
+![Docker Pulls](https://img.shields.io/docker/pulls/janpreet/jenkins)
+[![Known Vulnerabilities](https://snyk.io/test/github/janpreet/Jenkins-with-Plugins/badge.svg?targetFile=Dockerfile)](https://snyk.io/test/github/janpreet/Jenkins-with-Plugins?targetFile=Dockerfile)
 
 ## Motivation:
 
@@ -13,8 +14,9 @@ docker pull janpreet/jenkins:latest
 
 - active-directory
 - atlassian-bitbucket-server-integration
-- cloudbees-bitbucket-branch-source
+- audit-trail
 - bitbucket
+- cloudbees-bitbucket-branch-source
 - build-name-setter
 - build-pipeline-plugin
 - build-timeout
@@ -45,7 +47,7 @@ docker pull janpreet/jenkins:latest
 - ssh
 - ssh-agent
 - ssh-slaves
-- ssh-steps
+- issh-steps
 - subversion
 - view-job-filters
 - workflow-aggregator
