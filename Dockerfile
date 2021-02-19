@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.7
+FROM jenkins/jenkins:latest
 LABEL Maintainer="Janpreet Singh"
 
 ENV JENKINS_HOME /var/jenkins_home
