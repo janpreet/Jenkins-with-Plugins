@@ -15,6 +15,7 @@ docker pull janpreet/jenkins:latest
 - atlassian-bitbucket-server-integration
 - audit-trail
 - bitbucket
+- blueocean
 - cloudbees-bitbucket-branch-source
 - build-name-setter
 - build-pipeline-plugin
